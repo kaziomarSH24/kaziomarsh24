@@ -112,14 +112,6 @@ $omar = [
 
 ---
 
-## `< activity_graph />`
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaziomarSH24&bg_color=0d1117&color=00d2ff&line=00a8cc&point=ffffff&area=true&hide_border=true" />
-</div>
-
----
-
 <div align="center">
 
 ### 💬 Let's Build Something Resilient
