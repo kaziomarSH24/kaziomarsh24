@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d2ff,100:0d1117&height=210&section=header&text=Kazi%20Omar%20Faruk&fontSize=56&fontColor=00d2ff&fontAlignY=36&desc=Backend%20Engineer%20%7C%20Scalable%20Architectures%20%26%20Cloud%20APIs%20%F0%9F%87%A7%F0%9F%87%A9&descAlignY=58&descSize=17&descColor=a0aec0&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d2ff,100:0d1117&height=210&section=header&text=Kazi%20Omar%20Faruk&fontSize=56&fontColor=00d2ff&fontAlignY=36&desc=Backend%20Engineer%20%7C%20Scalable%20Architectures%20and%20Cloud%20APIs%20%F0%9F%87%A7%F0%9F%87%A9&descAlignY=58&descSize=17&descColor=a0aec0&animation=twinkling" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D2FF&center=true&vCenter=true&width=750&lines=Backend+Software+Engineer+%F0%9F%9A%80;PHP+%2F+Laravel+%7C+Python+%2F+FastAPI+%7C+Redis+%7C+Docker;High-Concurrency+Systems+%26+Distributed+Microservices;AI-Native+Orchestration+(Gemini%2C+Claude%2C+Cursor);Turning+Complex+Logic+Into+Resilient+Architectures." alt="Typing SVG" />
