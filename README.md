@@ -24,14 +24,12 @@
 ```php
 $omar = [
     'name'        => 'Kazi Omar Faruk',
-    'role'        => 'Backend Software Engineer',
+    'role'        => 'Backend / Systems Engineer',
     'location'    => 'Dhaka, Bangladesh 🇧🇩',
-    'academics'   => 'B.Sc. in CSE (CGPA: 3.81 / 4.00)',
-    'core_stack'  => ['PHP 8.x / Laravel 13', 'Python / FastAPI', 'MySQL (3NF)', 'Redis'],
+    'core_stack'  => ['PHP 8.x / Laravel', 'Python / FastAPI', 'MySQL', 'Redis'],
     'devops'      => ['Docker', 'Nginx', 'AWS', 'GitHub Actions CI/CD'],
-    'specialty'   => ['High-Concurrency (lockForUpdate)', 'Microservices', 'Payment Gateways', 'Laravel Reverb'],
-    'workflow'    => 'AI-Native Orchestration (Claude, Cursor, Gemini Antigravity)',
-    'philosophy'  => 'Do not just write code line-by-line — orchestrate resilient architectures.',
+    'specialty'   => ['High Concurrency', 'Financial Transactions', 'Microservices', 'WebSockets'],
+    'focus'       => 'Writing clean, resilient backend systems that survive scale.',
     'contact'     => 'softeng.kaziomar@gmail.com',
 ];
 ```
